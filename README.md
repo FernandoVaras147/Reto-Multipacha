@@ -61,3 +61,4 @@ Resaltado visual de círculo
 
 - `resaltar_circulo.py`: Similar al filtro, pero resalta puntos que **pertenecen al círculo** original (con precisión), publicándolos en `/nube_resaltada`
 
+Ayudado de Chat GPT
