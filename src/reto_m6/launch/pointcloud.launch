@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="reto_m6" type="reto_pointcloud_pub.py" name="pc_publisher" output="screen"/>
+  <node pkg="rviz" type="rviz" name="rviz" />
+</launch>
